@@ -30,15 +30,7 @@ const Projects = () => {
       name: "Live Demo Website",
       description:
         "A fully responsive website clone built with React, replicating the design and functionality of a real-world site. Demonstrates strong front-end development skills.",
-      link: "https://live-demo-kohl.vercel.app",
-    },
-
-    {
-      id: 5,
-      name: "Crypto App",
-      description:
-        "A JavaScript-based cryptocurrency price tracker that displays real-time price fluctuations of various cryptocurrencies using a crypto API.",
-      link: "https://crypto-app-demo.vercel.app",
+      link: "https://live-demo-kohl.vercel.app/",
     },
   ];
 
