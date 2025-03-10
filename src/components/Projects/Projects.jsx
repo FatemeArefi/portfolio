@@ -17,36 +17,24 @@ const Projects = () => {
         "A task management app built with JavaScript. Users can add, edit, and delete tasks with dates, offering a simple yet effective way to manage to-dos.",
       link: "https://todo-main-omega.vercel.app",
     },
+
     {
       id: 3,
-      name: "ZarinPal Payment",
-      description:
-        "An online payment project using ZarinPal's API. Users can securely and quickly complete their payments through this platform.",
-      link: "https://zarinpal-mauve.vercel.app",
-    },
-    {
-      id: 4,
       name: "Weather App",
       description:
         "A weather application that provides real-time weather updates using a weather API. Users can search for weather conditions in any city.",
       link: "https://weather-app-mu-orpin.vercel.app",
     },
     {
-      id: 5,
+      id: 4,
       name: "Live Demo Website",
       description:
         "A fully responsive website clone built with React, replicating the design and functionality of a real-world site. Demonstrates strong front-end development skills.",
       link: "https://live-demo-kohl.vercel.app",
     },
+
     {
-      id: 6,
-      name: "Shopping Cart",
-      description:
-        "A React-based shopping cart application with categorized products, detailed product descriptions, and a seamless checkout process.",
-      link: "https://shopping-cart-master-sage.vercel.app/products",
-    },
-    {
-      id: 7,
+      id: 5,
       name: "Crypto App",
       description:
         "A JavaScript-based cryptocurrency price tracker that displays real-time price fluctuations of various cryptocurrencies using a crypto API.",
